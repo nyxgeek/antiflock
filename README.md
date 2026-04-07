@@ -1,5 +1,5 @@
 # antiflock
-anti-flock stickers you can print
+anti-flock stickers you can print on a thermal shipping label
 
 
 ## Flock Camera Notice 4x6
